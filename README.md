@@ -52,61 +52,11 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
 - 🧑‍💻 **Open-Source Contributions**: Actively participating in 3+ repositories  
 
 ---
-### **Languages & Databases:**
-- **Java**  |  **Python**  |  **C**  |  **MySQL**
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
-
-### **Web Development:**
-- **HTML5**  |  **CSS3**  |  **JavaScript**  |  **React**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
-
-### **Backend Development:**
-- **Node.js**  |  **Express.js**  |  **Django**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50" height="50" />
-
-### **Android Development:**
-- **Java**  |  **Kotlin**  |  **Android Studio**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_logo_2019.png/800px-Android_logo_2019.png" width="50" height="50" />  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Kotlin-logo.png" width="50" height="50" />  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Android_Studio_icon.svg" width="50" height="50" />
-
-### **AI/ML & Data Science:**
-- **TensorFlow**  |  **Keras**  |  **Scikit-learn**  |  **Pandas**  |  **NumPy**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg" width="50" height="50" />  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Keras_logo.png" width="50" height="50" />  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Scikit-learn-logo.png" width="50" height="50" />  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_logo.svg" width="50" height="50" />  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/NumPy_logo_2020.svg" width="50" height="50" />
-
-### **Version Control & Collaboration:**
-- **Git**  |  **GitHub**  |  **GitLab**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" height="50" />  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/GitLab_Logo.svg" width="50" height="50" />  
-
-### **Development Tools:**
-- **Visual Studio Code**  |  **Android Studio**  |  **Postman**  |  **Docker**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Visual_Studio_Code_1.35_icon.svg" width="50" height="50" />  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Android_Studio_Logo.svg" width="50" height="50" />  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Postman_logo.png" width="50" height="50" />  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Docker_logo.svg" width="50" height="50" />
-
-### **Cloud & Deployment:**
-- **AWS**  |  **Heroku**  |  **Netlify**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Amazon_Web_Services_Logo.svg" width="50" height="50" />  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Heroku_logo.svg" width="50" height="50" />  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Netlify_logo.svg" width="50" height="50" />
 
 ## 🔨 **Tech Stack**
 
 **Languages & Databases:**  
+###Languages & Databases:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" height="80" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" />  
