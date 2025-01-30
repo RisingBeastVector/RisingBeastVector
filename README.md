@@ -1,6 +1,8 @@
 ### Hi there, I'm Sai Ayushman Padhy! 👋
 
-![Animated Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" style="border-radius: 15px;" />
+</p>
 
 ---
 
@@ -70,7 +72,5 @@ Let's connect and build something **amazing** together! 🔥
 📫 **Reach me at:**  
 📌 GitHub: [RisingBeastVector](https://github.com/RisingBeastVector)  
 📌 LinkedIn: *Coming Soon...*  
-📌 Portfolio: *Work in Progress...*  
-
-![The End](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+📌 Portfolio: *Work in Progress...*
 
