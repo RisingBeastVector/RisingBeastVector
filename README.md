@@ -100,6 +100,7 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50" height="50" />
 
+
 ### **Android & Cross-Platform Development:**
 - **Java**  |  **Kotlin**  |  **Android Studio**  |  **React Native**  |  **Flutter**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />  
