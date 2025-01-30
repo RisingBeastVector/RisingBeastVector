@@ -1,4 +1,4 @@
-### Hi there, I'm Sai Ayushman Padhy! 👋
+### Hi there, I'm Sai Ayushman Padhy, aka RisingBeastVector! 👋
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" style="border-radius: 25px;" />
@@ -73,4 +73,3 @@ Let's connect and build something **amazing** together! 🔥
 📌 GitHub: [RisingBeastVector](https://github.com/RisingBeastVector)  
 📌 LinkedIn: *Coming Soon...*  
 📌 Portfolio: *Work in Progress...*
-
