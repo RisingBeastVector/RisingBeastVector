@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Sai Ayushman Padhy**, aka **RisingBeastVector**! 🚀
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" style="border-radius: 25px;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1000";" />
 </p>
 
 ---
