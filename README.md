@@ -82,7 +82,7 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
 ### **Languages & Databases:**
 - **Java**  |  **Python**  |  **C**  |  **MySQL**  |  **MongoDB**  |  **Go (Golang)**  |  **PHP**  |  **TypeScript**  |  **Swift**
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />  &nsbp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />  
