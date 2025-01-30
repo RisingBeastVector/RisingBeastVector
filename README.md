@@ -1,68 +1,45 @@
-# Hi there, I'm Sai Ayushman Padhy! 👋
+# 💻 Sai Ayushman Padhy
 
-🌱 **Enthusiastic Learner** | 💻 **Coding Lover** | 🚀 **Future Full-Stack & Android Developer**
+## 🌟 Enthusiastic Learner | Aspiring Full-Stack Developer | Future AI/ML & Data Science Explorer
 
----
-
-### 🔥 About Me  
-I'm a passionate coder with a love for turning ideas into digital reality. Currently mastering the basics of **Java, Python, C, MySQL, HTML, and CSS**, I’m on a mission to become a **Full-Stack Web Developer** and eventually dive into **Android Development**. Alongside, I’m exploring the fascinating worlds of **AI/ML 🤖** and **Data Science & Analytics 📊**.  
-
-**Fun Fact:** When I’m not coding, you’ll find me geeking out about tech trends or brainstorming new project ideas!  
+Hello! I'm **Sai Ayushman Padhy**, a passionate programmer 🚀 with a keen interest in **Full-Stack Web Development**, **Android Development**, and **AI/ML & Data Science**. I love solving problems through code and continuously improving my skills. 😃
 
 ---
 
-### 🛠️ Tech Stack & Tools  
+## 🔥 Tech Stack & Skills
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Web Development
+- **Frontend**: HTML, CSS
+- **Backend**: MySQL (Basic)
 
----
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 📈 Learning Journey  
-
-**Current Focus:** Full-Stack Development (MERN Stack)  
-**Next Goal:** Android Development (Kotlin)  
-
-| Skill          | Progress      |
-|----------------|---------------|
-| **Python**     | ██████░░░░ 60% |
-| **Java**       | █████░░░░░ 50% |
-| **Web Dev**    | ████░░░░░░ 40% |
-| **Databases**  | ████░░░░░░ 40% |
+### 🛠️ Tools & Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 🎯 Aspirations  
-
-1. **Build scalable web apps** 🌐  
-2. **Design intuitive mobile apps** 📱  
-3. **Leverage AI/ML for smart solutions** 🧠  
-4. **Analyze data to drive decisions** 📈  
+## 📊 GitHub Stats
+![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ---
 
-### 📊 GitHub Stats  
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=RisingBeastVector&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RisingBeastVector&layout=compact&theme=vision-friendly-dark)
-
----
-
-### 🏆 Achievements  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RisingBeastVector&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 🚀 Learning Journey
+📌 Currently learning **Full-Stack Web Development** 🌐  
+📌 Exploring **Android Development** 📱  
+📌 Diving into **AI/ML & Data Science** 🤖📊  
 
 ---
 
-### 💬 Let's Connect!  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YourLinkedInURL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
-⭐ **Fun Quote:** *"The best way to predict the future is to code it."*  
+🚀 **"Code, Learn, Build, Repeat!"** 🚀
+
