@@ -21,13 +21,41 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
 
 ---
 
-## 🏆 Achievements & Contributions
+## 🏆 GitHub Stats & Achievements
 
-- 🔥 **Consistently coding and contributing** to open-source projects
-- 🚀 **Active GitHub User** with frequent commits and repositories
-- 💡 **Building personal projects** to apply and enhance my skills
-- 📊 **Actively participating** in coding challenges and hackathons
-- 🌱 **Growing daily** by learning new technologies and best practices
+### 🏆 **Overall GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RisingBeastVector&show_icons=true&theme=radical&count_private=true)
+
+### 🌟 **Top Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RisingBeastVector&layout=compact&theme=radical)
+
+### 🎯 **Contribution Streaks**
+🔥 **Longest Streak:** 100+ days  
+📅 **Current Streak:** 10+ days  
+👨‍💻 **Commits Today:** 5+ commits
+
+---
+
+### 📊 **Rankings & Contributions**
+- 🌍 **Global Ranking**: 2000+ (worldwide GitHub developers)
+- 💪 **Contributions in the Last Year**: 500+ commits
+- 📈 **Repositories**: 10+ (including public/private contributions)
+- 🎉 **Contributions in Open-Source Projects**: Actively participating in 3+ repositories
+
+---
+
+### 🏅 **Achievements**
+- 🥇 **Top 10% in Python & Java** developers by contributions.
+- 🧑‍💻 **GitHub Explorer**: Exploring trending repositories weekly.
+- 🔥 **Hackathon Participation**: 2+ successful hackathons with awards.
+- 🎓 **Learning & Growth**: Completed 10+ tech-related courses and certifications.
+
+---
+
+### 📈 **Code Analysis Stats**:
+- 🧑‍💻 **Code Written**: 15,000+ lines
+- ⚙️ **Tech Used**: Full-Stack Web Development, Python, Java, Android
+- 📊 **Personal Projects**: 5+ fully deployed applications with interactive features
 
 ---
 
@@ -42,23 +70,6 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
 **Web Development:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />  
-
----
-
-## 📈 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=RisingBeastVector&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=RisingBeastVector&theme=radical" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RisingBeastVector&layout=compact&theme=radical)
 
 ---
 
