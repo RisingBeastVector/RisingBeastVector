@@ -1,9 +1,8 @@
 # 👋 Hi, I'm **Sai Ayushman Padhy**, aka **RisingBeastVector**! 🚀
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/983fc17c-b5a0-458d-9bb8-a58b73533cdd" width="500" style="border-radius: 25px;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" style="border-radius: 25px;" />
 </p>
-![Coding Work From Home GIF by Domme Space (1)](https://github.com/user-attachments/assets/983fc17c-b5a0-458d-9bb8-a58b73533cdd)
 
 ---
 
