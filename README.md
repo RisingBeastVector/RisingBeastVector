@@ -19,12 +19,13 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
 
 ---
 
-## 🏆 Achievements & Rankings
+## 🏆 Achievements & Contributions
 
-- 🥇 **GitHub Contributions:** ![GitHub Commit Count](https://img.shields.io/github/commit-activity/y/RisingBeastVector?style=for-the-badge)
-- 📊 **GitHub Profile Rank:** ![GitHub Rank](https://github-profile-trophy.vercel.app/?username=RisingBeastVector&theme=radical&column=7)
-- 🌍 **Global Coder Rank:** ![CodeRank](https://img.shields.io/badge/Global%20Rank-Top%205%25-brightgreen?style=for-the-badge)
-- 🏅 **LeetCode/Coding Platform Stats:** *Coming Soon...*
+- 🔥 **Consistently coding and contributing** to open-source projects
+- 🚀 **Active GitHub User** with frequent commits and repositories
+- 💡 **Building personal projects** to apply and enhance my skills
+- 📊 **Actively participating** in coding challenges and hackathons
+- 🌱 **Growing daily** by learning new technologies and best practices
 
 ---
 
@@ -71,4 +72,5 @@ Let's connect and build something **amazing** together! 🔥
 📌 LinkedIn: *Coming Soon...*  
 📌 Portfolio: *Work in Progress...*  
 
-![Thanks for visiting!](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![The End](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+
