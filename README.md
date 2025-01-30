@@ -2,10 +2,11 @@
 
 <p align="center">
   <img src="Uploading Coding Work From Home GIF by Domme Space (1).gif" width="500" style="border-radius: 25px;" />
-</p>![Uploading Coding Work From Home GIF by Domme Space (1).gif…]()
+</p>
 
 
----
+---![Uploading Coding Work From Home GIF by Domme Space (1).gif…]()
+
 
 ## 🧑‍💻 **About Me**
 
