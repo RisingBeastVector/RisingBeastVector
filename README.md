@@ -127,18 +127,17 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" height="50" />  
 
 ### **Development Tools:**
-- **Visual Studio Code**  |  **Visual Studio**  |  **Android Studio**  |  **Postman**  |  **Docker**  |  **CMD**  |  **PowerShell**  
+- **Visual Studio Code**  |  **Visual Studio**  |  **Android Studio**  |  **Postman**  |  **Docker**  |  **PowerShell**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="50" height="50" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="50" height="50" />
 
 ### **Cloud & Deployment:**
 - **AWS**  |  **Heroku**  |  **Netlify**  |  **Azure**
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="50" height="50" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="50" height="50" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" />
