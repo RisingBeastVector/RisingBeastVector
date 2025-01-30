@@ -80,13 +80,14 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
 ## 🛠️ Tech Stack & Tools I Use
 
 ### **Languages & Databases:**
-- **Java**  |  **Python**  |  **C**  |  **MySQL**  |  **MongoDB**  |  **Go (Golang)**  
+- **Java**  |  **Python**  |  **C**  |  **MySQL**  |  **MongoDB**  |  **Go (Golang)**  |  **PHP**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" />
 
 ### **Web Development:**
 - **HTML5**  |  **CSS3**  |  **JavaScript**  |  **React**  
@@ -98,9 +99,8 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
 ### **Backend Development:**
 - **Node.js**  |  **Express.js**  |  **Django**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" height="50" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50" height="50" />
 
 ### **Android & Cross-Platform Development:**
 - **Java**  |  **Kotlin**  |  **Android Studio**  |  **React Native**  |  **Flutter**  
@@ -137,6 +137,12 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="50" height="50" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="50" height="50" />
+
+### **Operating Systems:**
+- **Windows**  |  **macOS**  |  **Linux**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50" height="50" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
 
 
 ---
