@@ -33,24 +33,7 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
 ---
 
 ## 📈 **Contribution Streaks & Ranking**
-🔥 **Longest Streak:** 100+ days  
-📅 **Current Streak:** 10+ days  
-👨‍💻 **Commits Today:** 5+ commits
-
-### 🏅 **Ranking & Contributions**  
-- 🌍 **Global Ranking**: 2000+ (worldwide GitHub developers)  
-- 💪 **Contributions in the Last Year**: 500+ commits  
-- 📈 **Repositories**: 10+ (including public/private contributions)  
-- 🏆 **Hackathon Participation**: 2+ successful hackathons with awards  
-
----
-
-## 💡 **Achievements & Milestones**
-- 🥇 **Top 10% in Python & Java** developers by contributions  
-- 💻 **GitHub Explorer**: Exploring trending repositories weekly  
-- 🎓 **Learning & Growth**: Completed 10+ tech-related courses  
-- 🧑‍💻 **Open-Source Contributions**: Actively participating in 3+ repositories  
-
+  
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -151,13 +134,6 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
 
 ---
 
-## 🚀 **My Progress**
-- 🧑‍💻 **Code Written**: 15,000+ lines  
-- ⚙️ **Technologies Used**: Full-Stack Web Development, Python, Java, Android  
-- 📊 **Personal Projects**: 5+ fully deployed applications with interactive features  
-
----
-
 ## ⚡ **Fun Fact**
 🚀 I love optimizing code for better efficiency and am always curious about how things work behind the scenes. When I’m not coding, I’m binge-watching tech videos, learning new technologies, and experimenting with creative ideas! 
 
@@ -166,9 +142,11 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
 ## 💬 **Let's Connect & Build Something Amazing!**
 
 📫 **You can reach me at:**  
-- 📌 [GitHub: RisingBeastVector](https://github.com/RisingBeastVector)  
-- 📌 LinkedIn: *Coming Soon...*  
 - 📌 Portfolio: *Work in Progress...*
+- 📌 LinkedIn: *Coming Soon...*
+- 📌 X: [Sai Ayushman Padhy](https://x.com/ayushman_sai?t=SqseBv9ThAgPkhSAeZL9Qw&s=09)
+- 📌 Instagram: [Sai Ayushman Padhy](https://www.instagram.com/_sai.ayushman_?igsh=YjNpdnhiMmR2Nmdu)
+- 📌 GitHub: [RisingBeastVector](https://github.com/RisingBeastVector)  
 
 ---
 
