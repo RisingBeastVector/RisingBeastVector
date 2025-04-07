@@ -152,7 +152,5 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
 
 ## 🔥 Let's build something incredible together! 💥
 
----
-
 ## 🌟 **Support My Work**
 If you like my projects or want to collaborate, feel free to star my repos and open issues for suggestions. 💬 Your feedback means a lot!  
