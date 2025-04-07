@@ -144,13 +144,15 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
 📫 **You can reach me at:**  
 - 📌 Portfolio: *Work in Progress...*
 - 📌 LinkedIn: *Coming Soon...*
-- 📌 X: [Sai Ayushman Padhy](https://x.com/ayushman_sai?t=SqseBv9ThAgPkhSAeZL9Qw&s=09)
+- 📌 X:         [Sai Ayushman Padhy](https://x.com/ayushman_sai?t=SqseBv9ThAgPkhSAeZL9Qw&s=09)
 - 📌 Instagram: [Sai Ayushman Padhy](https://www.instagram.com/_sai.ayushman_?igsh=YjNpdnhiMmR2Nmdu)
-- 📌 GitHub: [RisingBeastVector](https://github.com/RisingBeastVector)  
+- 📌 GitHub:    [RisingBeastVector](https://github.com/RisingBeastVector)  
 
 ---
 
 ## 🔥 Let's build something incredible together! 💥
+
+---
 
 ## 🌟 **Support My Work**
 If you like my projects or want to collaborate, feel free to star my repos and open issues for suggestions. 💬 Your feedback means a lot!  
