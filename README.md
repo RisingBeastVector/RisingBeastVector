@@ -10,6 +10,8 @@
 
 I'm an enthusiastic learner and passionate coder who loves exploring and building things with technology. I thrive on problem-solving and continuously expanding my skill set. Currently, I'm focused on **Full-Stack Web Development**, **Android Development**, and diving into the world of **AI/ML** and **Data Science**.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RisingBeastVectorr&label=Profile%20views&color=0e75b6&style=flat" alt="RisingBeastVector" /> </p>
+
 ---
 
 ## 🌱 **What I Do**  
@@ -33,7 +35,9 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
 ---
 
 ## 📈 **Contribution Streaks & Ranking**
-  
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RisingBeastVector&" alt="RisingBeastVector" /></p>
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -134,15 +138,11 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
 
 ---
 
-## ⚡ **Fun Fact**
-🚀 I love optimizing code for better efficiency and am always curious about how things work behind the scenes. When I’m not coding, I’m binge-watching tech videos, learning new technologies, and experimenting with creative ideas! 
-
----
-
 ## 💬 **Let's Connect & Build Something Amazing!**
 
 📫 **You can reach me at:**  
 - 📌 Portfolio:   *Work in Progress...*
+- 📌 Email:       **saiayushmanp45@gmail.com**
 - 📌 LinkedIn:    *Coming Soon...*
 - 📌 GitHub:      [RisingBeastVector](https://github.com/RisingBeastVector) 
 - 📌 X / Twitter: [ayushman_sai](https://x.com/ayushman_sai?t=SqseBv9ThAgPkhSAeZL9Qw&s=09)
