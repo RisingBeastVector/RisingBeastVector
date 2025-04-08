@@ -37,7 +37,6 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
 ## 📈 **Contribution Streaks & Ranking**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RisingBeastVector&" alt="RisingBeastVector" /></p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RisingBeastVector&repo=github-readme-stats)](https://github.com/RisingBeastVector/github-readme-stats)
 
 ---
 
