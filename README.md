@@ -142,7 +142,7 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
 
 📫 **You can reach me at:**  
 - 📌 Portfolio:   *Work in Progress...*
-- 📌 Email:       **saiayushmanp45@gmail.com**
+- 📌 Email:       **saiayushmanpadhy.official@gmail.com**
 - 📌 LinkedIn:    *Coming Soon...*
 - 📌 GitHub:      [RisingBeastVector](https://github.com/RisingBeastVector) 
 - 📌 X / Twitter: [ayushman_sai](https://x.com/ayushman_sai?t=SqseBv9ThAgPkhSAeZL9Qw&s=09)
