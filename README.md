@@ -10,7 +10,7 @@
 
 I'm an enthusiastic learner and passionate coder who loves exploring and building things with technology. I thrive on problem-solving and continuously expanding my skill set. Currently, I'm focused on **Full-Stack Web Development**, **Android Development**, and diving into the world of **AI/ML** and **Data Science**.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RisingBeastVectorr&label=Profile%20views&color=0e75b6&style=flat" alt="RisingBeastVector" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RisingBeastVectorr&label=Profile%20views&color=brightgreen&style=flat" alt="RisingBeastVector" /> </p>
 
 ---
 
