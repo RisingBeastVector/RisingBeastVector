@@ -53,7 +53,7 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
 
   
 ### **Web Development:**
-- **HTML5**  |  **CSS3**  |  **JavaScript**  |  **React**
+- **HTML5**  |  **CSS3**  |  **JavaScript**
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />  
