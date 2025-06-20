@@ -19,8 +19,6 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
 - 📱 Exploring **Android development**
 - 🤖 Delving into **AI/ML and Data Science**
 - 🔧 **Upgrading** my skills & experimenting with new tech
-- 🌍 Contributing to **open-source projects**
-- 📚 Writing blogs and documenting my learning journey
 
 ---
 
@@ -45,18 +43,14 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
 ## 🛠️ Tech Stack & Tools
 
 ### **Languages & Databases:**
-- **Java**  |  **Python**  |  **C**  |  **MySQL**  |  **MongoDB**  |  **Go (Golang)**  |  **PHP**  |  **TypeScript**  |  **Swift**
+- **Java**  |  **Python**  |  **C**  |  **MySQL** 
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" /> 
   </p>
+
   
 ### **Web Development:**
 - **HTML5**  |  **CSS3**  |  **JavaScript**  |  **React**
@@ -64,78 +58,44 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
   </p>
 
 
 ### **Backend Development:**
-- **Node.js**  |  **Express.js**  |  **Django**
+- **Node.js** 
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" height="50" />
   </p>
-  
 
-### **Android & Cross-Platform Development:**
-- **Java**  |  **Kotlin**  |  **Android Studio**  |  **React Native**  |  **Flutter**
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" />
-  </p>
   
-
-### **AI/ML & Data Science:**
-- **TensorFlow**  |  **Keras**  |  **Scikit-learn**  |  **Pandas**  |  **NumPy**
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" />
-  </p>
-  
-
 ### **Version Control & Collaboration:**
-- **Git**  |  **GitHub**  |  **GitLab**
+- **Git**  |  **GitHub** 
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" height="50" /> 
   </p>
    
 
 ### **Development Tools:**
-- **Visual Studio Code**  |  **Visual Studio**  |  **Android Studio**  |  **Postman**  |  **Docker**  |  **PowerShell**
+- **Visual Studio Code**  |  **PowerShell**
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="50" height="50" />
   </p>
   
 
 ### **Cloud & Deployment:**
-- **AWS**  |  **Heroku**  |  **Netlify**  |  **Azure**
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" />
+- **Netlify**  |  **Vercel**
+  <p>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="50" height="50" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="50" height="50" />
   </p>
   
 
 ### **Operating Systems:**
-- **Windows**  |  **macOS**  |  **Linux**
+- **Windows**
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
   </p>
 
 ---
@@ -145,7 +105,7 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
 📫 **You can reach me at:**  
 - 📌 Portfolio:   *Work in Progress...*
 - 📌 Email:       **saiayushmanpadhy.official@gmail.com**
-- 📌 LinkedIn:    *Coming Soon...*
+- 📌 LinkedIn:    [Sai Ayushman Padhy](www.linkedin.com/in/sai-ayushman-padhy)
 - 📌 GitHub:      [RisingBeastVector](https://github.com/RisingBeastVector) 
 - 📌 X / Twitter: [ayushman_sai](https://x.com/ayushman_sai?t=SqseBv9ThAgPkhSAeZL9Qw&s=09)
 - 📌 Instagram:   [_sai.ayushman_](https://www.instagram.com/_sai.ayushman_?igsh=YjNpdnhiMmR2Nmdu)
