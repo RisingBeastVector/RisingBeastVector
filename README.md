@@ -32,7 +32,7 @@ I'm an enthusiastic learner and passionate coder who loves exploring and buildin
 
 ---
 
-## 📈 **Contribution Streaks & Ranking**
+## 📈 **Contribution Streaks**
 
 <p align="center" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RisingBeastVector&theme=outrun" alt="RisingBeastVector" />
