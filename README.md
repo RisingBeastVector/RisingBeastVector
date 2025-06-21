@@ -39,6 +39,18 @@ I'm an enthusiastic learner and aspiring coder who loves exploring and building 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RisingBeastVector&theme=outrun" alt="RisingBeastVector" />
 </p>
 
+<p align="center">
+  <strong>📊 GitHub Stats</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>🧠 Top Languages</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RisingBeastVector">
+    <img src="https://github-readme-stats.vercel.app/api?username=RisingBeastVector&show_icons=true&theme=radical&count_private=true" />
+  </a>
+  <a href="https://github.com/RisingBeastVector">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RisingBeastVector&layout=compact&theme=radical" />
+  </a>
+</p>
 ---
 
 ## 🛠️ Tech Stack & Tools
