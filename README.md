@@ -8,17 +8,18 @@
 
 ## 🧑‍💻 **About Me**
 
-I'm an enthusiastic learner and passionate coder who loves exploring and building things with technology. I thrive on problem-solving and continuously expanding my skill set. Currently, I'm focused on **Full-Stack Web Development**, **Android Development**, and diving into the world of **AI/ML** and **Data Science**.
+I'm an enthusiastic learner and aspiring coder who loves exploring and building things with technology. I enjoy problem-solving and am always eager to expand my skill set. Right now, I'm focused on learning **Full-Stack Web Development**, exploring **Android Development***, and diving into the basics of **AI/ML** and **Data Science**.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RisingBeastVectorr&label=Profile%20views&color=brightgreen&style=flat" alt="RisingBeastVector" /> </p>
 
 ---
 
 ## 🌱 **What I Do**  
-- 💻 Building **web applications** (Full-Stack Development)
-- 📱 Exploring **Android development**
-- 🤖 Delving into **AI/ML and Data Science**
-- 🔧 **Upgrading** my skills & experimenting with new tech
+
+- 💻 Learning **Full-Stack Web Development**
+- 📱 Exploring **Android Development**
+- 🤖 Getting started with **AI/ML & Data Science**
+- 🔧 **Upgrading** my skills and experimenting with new technologies
 
 ---
 
